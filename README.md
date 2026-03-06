@@ -8,10 +8,11 @@ This is a university class project that evolved into a unique, fully-featured ca
 * **Dynamic Filtering:** Searchable dropdowns for contacts and categories.
 * **Database Backed:** SQL integration for persistent data storage.
 
+
 ## Screenshots
-![Calendar View 1](https://github.com/user-attachments/assets/62ad5b49-b885-4364-9a63-1dba2b301fdb)
-![Calendar View 2](https://github.com/user-attachments/assets/9531aa14-f241-4d24-9dc7-4ef7a30bb146)
-![Event Creation](https://github.com/user-attachments/assets/548ba2a3-6688-40db-bcdb-9e7f4f762d2d)
+![Calendar View 1](https://github.com/user-attachments/assets/c3d8d9d0-393e-4fac-87b6-e0cc77403acc)
+![Calendar View 2](https://github.com/user-attachments/assets/6720978f-5524-4a9e-a311-6e1024dce205)
+![Event Creation](https://github.com/user-attachments/assets/ac331301-be53-41a8-9f82-03d1c2e7e8ae)
 
 
 ## Tech Stack
