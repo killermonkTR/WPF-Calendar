@@ -10,7 +10,7 @@ This is a university class project that evolved into a unique, fully-featured ca
 
 
 ## Screenshots
-![Calendar View 1](https://github.com/user-attachments/assets/c3d8d9d0-393e-4fac-87b6-e0cc77403acc)
+![Calendar View 1](https://github.com/user-attachments/assets/dc1433ab-8a4f-46ae-825d-4efd4602ae0c)
 ![Calendar View 2](https://github.com/user-attachments/assets/6720978f-5524-4a9e-a311-6e1024dce205)
 ![Event Creation](https://github.com/user-attachments/assets/ac331301-be53-41a8-9f82-03d1c2e7e8ae)
 
