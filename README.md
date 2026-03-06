@@ -10,7 +10,7 @@ This is a university class project that evolved into a unique, fully-featured ca
 
 
 ## Screenshots
-## **Main window**
+## **Main window:**
 ![Calendar View 1](https://github.com/user-attachments/assets/dc1433ab-8a4f-46ae-825d-4efd4602ae0c)
 
 ## **Event creator window:** 
